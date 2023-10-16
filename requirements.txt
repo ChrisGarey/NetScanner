@@ -1,0 +1,4 @@
+# Requirements for Cosmo's NetScanner
+lolcat
+nmap
+figlet
